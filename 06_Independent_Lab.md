@@ -14,7 +14,8 @@ The program should have the following abilities:
 | Student Information Query | The user can query the system for a list of all the students in the system. Please display the student information in a nicely formatted manner. |
 | Student Information Entry | Prompt the user to create a new student record. Prompt the user for the first name, then the last name, then major, and GPA last. |
 | Query GPA Metrics | The user can query the data for the following: *max* GPA, *min* GPA, *average* GPA. Display each of these on a separate line. Your program should update *max* GPA, *min* GPA, and *average* GPA each time the `Query GPA Metrics` menu option is selected. |
-| Academic Violations | Provide the user a list of current students. After selecting a student, provide them a list of academic violations which they can select (i.e., copying homework, cheating on exam, plagiarism, cheating on quiz, writing paper for another student). A student may only have one academic violation at a time. |
+| Academic Violations | Provide the user a list of current students. After selecting a student, provide them a list of academic violations which they can select (i.e., copying homework, cheating on exam, plagiarism, cheating on quiz, writing paper for another student). A stude3
+nt may only have one academic violation at a time. |
 
 In addition to the requirements above, you have been asked to rely on arrays and lists. I recommend you do not rely on multidimensional lists for this assignment. Specifically, you will need to use lists for the following:
 
